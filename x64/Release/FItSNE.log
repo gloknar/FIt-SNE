@@ -1,0 +1,136 @@
+﻿  stdafx.cpp
+  mman.c
+  nbodyfft.cpp
+E:\Git\FIt-SNE\src\nbodyfft.cpp(222,1): warning C4018: '<': no coinciden signed/unsigned
+  sptree.cpp
+E:\Git\FIt-SNE\src\sptree.cpp(54,23): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(55,23): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(82,23): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(107,23): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(111,23): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(291,27): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(311,27): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(320,64): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\sptree.cpp(361,1): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(387,27): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(389,31): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(391,19): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(396,27): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\sptree.cpp(398,27): warning C4018: '<': no coinciden signed/unsigned
+  tsne.cpp
+E:\Git\FIt-SNE\src\annoylib.h(84,17): warning C4081: se esperaba '('; se encontró 'cadena'
+E:\Git\FIt-SNE\src\progress_bar\ProgressBar.hpp(35,27): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(294,40): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\tsne.cpp(296,40): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\tsne.cpp(299,48): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\tsne.cpp(329,22): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(330,22): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(376,23): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\tsne.cpp(395,38): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(410,27): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(537,38): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(542,38): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(612,1): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(657,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(669,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(692,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(705,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(720,1): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(735,36): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(768,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(782,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(809,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(825,1): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(845,32): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(874,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(905,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(935,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(950,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(964,1): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(985,32): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1041,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1056,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1101,33): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1120,1): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1148,32): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1335,1): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1367,1): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1576,54): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\tsne.cpp(1577,29): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1589,27): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1619,59): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1676,27): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1703,59): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1742,34): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1746,45): warning C4018: '<': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1787,27): warning C4018: '<=': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(1806,32): warning C4018: '<=': no coinciden signed/unsigned
+E:\Git\FIt-SNE\src\tsne.cpp(2051,36): warning C4101: 'initial_data': variable local sin referencia
+E:\Git\FIt-SNE\src\vptree.h(126,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\vptree.h(123): message : al compilar la función del miembro clase plantilla "void VpTree<DataPoint,double euclidean_distance(const DataPoint &,const DataPoint &)>::create(const std::vector<T,std::allocator<T>> &)"
+          with
+          [
+              T=DataPoint
+          ]
+E:\Git\FIt-SNE\src\tsne.cpp(1665): message : Vea la referencia a la creación de una instancia de la función plantilla "void VpTree<DataPoint,double euclidean_distance(const DataPoint &,const DataPoint &)>::create(const std::vector<T,std::allocator<T>> &)" que se está compilando
+          with
+          [
+              T=DataPoint
+          ]
+E:\Git\FIt-SNE\src\tsne.cpp(1662): message : Vea la referencia a la creación de una instancia de clase plantilla "VpTree<DataPoint,double euclidean_distance(const DataPoint &,const DataPoint &)>" que se está compilando
+E:\Git\FIt-SNE\src\annoylib.h(1142,1): warning C4267: 'return': conversión de 'size_t' a 'S'; posible pérdida de datos
+          with
+          [
+              S=int
+          ]
+E:\Git\FIt-SNE\src\annoylib.h(1141): message : al compilar la función del miembro clase plantilla "S AnnoyIndex<S,double,Euclidean,Kiss32Random>::get_n_trees(void) const"
+          with
+          [
+              S=int
+          ]
+E:\Git\FIt-SNE\src\tsne.cpp(1554): message : Vea la referencia a la creación de una instancia de clase plantilla "AnnoyIndex<int,double,Euclidean,Kiss32Random>" que se está compilando
+E:\Git\FIt-SNE\src\annoylib.h(1119,19): warning C4477: 'fprintf' : la cadena de formato '%lu' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+E:\Git\FIt-SNE\src\annoylib.h(1119,19): message : considere el uso de ' %zu' en la cadena de formato
+E:\Git\FIt-SNE\src\annoylib.h(1058): message : al compilar la función del miembro clase plantilla "bool AnnoyIndex<int,double,Euclidean,Kiss32Random>::load(const char *,bool,char **)"
+E:\Git\FIt-SNE\src\annoylib.h(947,1): warning C4267: '+=': conversión de 'size_t' a 'S'; posible pérdida de datos
+          with
+          [
+              S=int
+          ]
+E:\Git\FIt-SNE\src\annoylib.h(910): message : al compilar la función del miembro clase plantilla "bool AnnoyIndex<int,double,Euclidean,Kiss32Random>::build(int,char **)"
+E:\Git\FIt-SNE\src\tsne.cpp(1570): message : Vea la referencia a la creación de una instancia de la función plantilla "bool AnnoyIndex<int,double,Euclidean,Kiss32Random>::build(int,char **)" que se está compilando
+E:\Git\FIt-SNE\src\annoylib.h(953,1): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\annoylib.h(897,1): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\annoylib.h(882): message : al compilar la función del miembro clase plantilla "bool AnnoyIndex<int,double,Euclidean,Kiss32Random>::on_disk_build(const char *,char **)"
+E:\Git\FIt-SNE\src\annoylib.h(1234,1): warning C4477: 'fprintf' : la cadena de formato '%ld' requiere un argumento de tipo 'long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+E:\Git\FIt-SNE\src\annoylib.h(1234,1): message : considere el uso de ' %zd' en la cadena de formato
+E:\Git\FIt-SNE\src\annoylib.h(1184): message : al compilar la función del miembro clase plantilla "S AnnoyIndex<S,double,Euclidean,Kiss32Random>::_make_tree(const std::vector<S,std::allocator<S>> &,bool)"
+          with
+          [
+              S=int
+          ]
+E:\Git\FIt-SNE\src\annoylib.h(939): message : Vea la referencia a la creación de una instancia de la función plantilla "S AnnoyIndex<S,double,Euclidean,Kiss32Random>::_make_tree(const std::vector<S,std::allocator<S>> &,bool)" que se está compilando
+          with
+          [
+              S=int
+          ]
+E:\Git\FIt-SNE\src\annoylib.h(1234,1): warning C4477: 'fprintf' : la cadena de formato '%ld' requiere un argumento de tipo 'long', pero el argumento variádico 2 tiene el tipo 'unsigned __int64'
+E:\Git\FIt-SNE\src\annoylib.h(1234,1): message : considere el uso de ' %zd' en la cadena de formato
+E:\Git\FIt-SNE\src\annoylib.h(1237,9): warning C4477: 'fprintf' : la cadena de formato '%lu' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'unsigned __int64'
+E:\Git\FIt-SNE\src\annoylib.h(1237,9): message : considere el uso de ' %zu' en la cadena de formato
+E:\Git\FIt-SNE\src\annoylib.h(1167,1): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+E:\Git\FIt-SNE\src\annoylib.h(1160): message : al compilar la función del miembro clase plantilla "void AnnoyIndex<int,double,Euclidean,Kiss32Random>::_allocate_size(S)"
+          with
+          [
+              S=int
+          ]
+E:\Git\FIt-SNE\src\annoylib.h(944): message : Vea la referencia a la creación de una instancia de la función plantilla "void AnnoyIndex<int,double,Euclidean,Kiss32Random>::_allocate_size(S)" que se está compilando
+          with
+          [
+              S=int
+          ]
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 1340 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  FItSNE.vcxproj -> E:\Git\FIt-SNE\x64\Release\FItSNE.exe
